@@ -1,0 +1,204 @@
+
+@media screen and (max-width: 950px) {
+    .content {
+        max-width: 650px;
+      }
+    .upper-image {
+        width: 210px;
+        height: 220px;
+    }
+    .upper-image img {
+        width: 210px;
+        height: 220px;
+    }
+    .upper-area h1 {
+        font-size: 35px;
+    }
+    .upper-area h4 {
+        font-size: 20px;
+    }
+    .about-area h2 {
+        font-size: 50px;
+    }
+    .about-area p {
+        font-size: 15px;
+        line-height: 25px;
+        letter-spacing: 0.9px;
+    }
+    .biography-area ul {
+        font-size: 14px;
+        line-height: 11px;
+    }
+    .footer-area p {
+        font-size: 13px;
+    }
+    .footer-area p a {
+        font-size: 16px;
+    }
+}
+
+
+@media screen and (max-width: 700px) {
+    .content {
+        max-width: 550px;
+    }
+    .upper-image {
+        width: 160px;
+        height: 160px;
+    }
+    .upper-image img {
+        width: 160px;
+        height: 160px;
+    }
+    .upper-area h1 {
+        font-size: 28px;
+    }
+    .upper-area h4 {
+        font-size: 16px;
+    }
+    .about-area h2 {
+        font-size: 42px;
+    }
+    .about-area p {
+        font-size: 13px;
+        line-height: 20px;
+        letter-spacing: 0.5px;
+    }
+    .biography-area ul {
+        font-size: 12px;
+        line-height: 7px;
+        margin-left: 30px;
+    }
+    .footer-area p {
+        font-size: 11px;
+    }
+    .footer-area p a {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .content {
+        max-width: 420px;
+    }
+    .upper-image {
+        width: 120px;
+        height: 120px;
+    }
+    .upper-image img {
+        width: 120px;
+        height: 120px;
+    }
+    .upper-area h1 {
+        font-size: 23px;
+    }
+    .upper-area h4 {
+        font-size: 14px;
+    }
+    .about-area h2 {
+        font-size: 36.5px;
+        margin-bottom: 14px;
+    }
+    .about-area p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .biography-area {
+        margin: 35px 0;
+      }
+    .biography-area ul {
+        font-size: 10px;
+        line-height: 3px;
+    }
+    .footer-area p {
+        font-size: 10px;
+    }
+    .footer-area p a {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .content {
+        max-width: 340px;
+    }
+    .upper-image {
+        width: 90px;
+        height: 90px;
+    }
+    .upper-image img {
+        width: 90px;
+        height: 90px;
+    }
+    .upper-area h1 {
+        font-size: 18px;
+    }
+    .upper-area h4 {
+        font-size: 11px;
+    }
+    .about-area h2 {
+        font-size: 28px;
+    }
+    .about-area p {
+        font-size: 11px;
+        line-height: 14px;
+        letter-spacing: 0.2px;
+    }
+    .biography-area {
+        margin: 25px 0;
+    }
+    .biography-area h3 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .biography-area ul {
+        font-size: 7.5px;
+        line-height: 0px;
+    }
+    .footer-area p {
+        font-size: 8px;
+    }
+    .footer-area p a {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 370px) {
+    .content {
+        max-width: 290px;
+    }
+    .upper-area h1 {
+        font-size: 16px;
+    }
+    .upper-area h4 {
+        font-size: 10px;
+    }
+    .about-area h2 {
+        font-size: 22px;
+    }
+    .about-area p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .biography-area {
+        margin: 20px 0;
+    }
+    .biography-area h3 {
+        font-size: 14px;
+        margin-bottom: 13px;
+    }
+    .biography-area ul {
+        font-size: 6.5px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
